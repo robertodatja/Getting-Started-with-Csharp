@@ -1,0 +1,15 @@
+C:\Users\Roberto\source\repos\Csharp24_Stack\Csharp24_Stack\bin\Debug\net6.0\Csharp24_Stack.exe
+C:\Users\Roberto\source\repos\Csharp24_Stack\Csharp24_Stack\bin\Debug\net6.0\Csharp24_Stack.deps.json
+C:\Users\Roberto\source\repos\Csharp24_Stack\Csharp24_Stack\bin\Debug\net6.0\Csharp24_Stack.runtimeconfig.json
+C:\Users\Roberto\source\repos\Csharp24_Stack\Csharp24_Stack\bin\Debug\net6.0\Csharp24_Stack.dll
+C:\Users\Roberto\source\repos\Csharp24_Stack\Csharp24_Stack\bin\Debug\net6.0\Csharp24_Stack.pdb
+C:\Users\Roberto\source\repos\Csharp24_Stack\Csharp24_Stack\obj\Debug\net6.0\Csharp24_Stack.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Csharp24_Stack\Csharp24_Stack\obj\Debug\net6.0\Csharp24_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\source\repos\Csharp24_Stack\Csharp24_Stack\obj\Debug\net6.0\Csharp24_Stack.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\Csharp24_Stack\Csharp24_Stack\obj\Debug\net6.0\Csharp24_Stack.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\Csharp24_Stack\Csharp24_Stack\obj\Debug\net6.0\Csharp24_Stack.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Csharp24_Stack\Csharp24_Stack\obj\Debug\net6.0\Csharp24_Stack.dll
+C:\Users\Roberto\source\repos\Csharp24_Stack\Csharp24_Stack\obj\Debug\net6.0\refint\Csharp24_Stack.dll
+C:\Users\Roberto\source\repos\Csharp24_Stack\Csharp24_Stack\obj\Debug\net6.0\Csharp24_Stack.pdb
+C:\Users\Roberto\source\repos\Csharp24_Stack\Csharp24_Stack\obj\Debug\net6.0\Csharp24_Stack.genruntimeconfig.cache
+C:\Users\Roberto\source\repos\Csharp24_Stack\Csharp24_Stack\obj\Debug\net6.0\ref\Csharp24_Stack.dll

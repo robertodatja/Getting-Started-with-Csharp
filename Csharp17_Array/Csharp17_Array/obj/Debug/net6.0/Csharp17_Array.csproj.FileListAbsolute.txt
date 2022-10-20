@@ -1,0 +1,15 @@
+C:\Users\Roberto\source\repos\Csharp17_Array\Csharp17_Array\bin\Debug\net6.0\Csharp17_Array.exe
+C:\Users\Roberto\source\repos\Csharp17_Array\Csharp17_Array\bin\Debug\net6.0\Csharp17_Array.deps.json
+C:\Users\Roberto\source\repos\Csharp17_Array\Csharp17_Array\bin\Debug\net6.0\Csharp17_Array.runtimeconfig.json
+C:\Users\Roberto\source\repos\Csharp17_Array\Csharp17_Array\bin\Debug\net6.0\Csharp17_Array.dll
+C:\Users\Roberto\source\repos\Csharp17_Array\Csharp17_Array\bin\Debug\net6.0\Csharp17_Array.pdb
+C:\Users\Roberto\source\repos\Csharp17_Array\Csharp17_Array\obj\Debug\net6.0\Csharp17_Array.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Csharp17_Array\Csharp17_Array\obj\Debug\net6.0\Csharp17_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\source\repos\Csharp17_Array\Csharp17_Array\obj\Debug\net6.0\Csharp17_Array.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\Csharp17_Array\Csharp17_Array\obj\Debug\net6.0\Csharp17_Array.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\Csharp17_Array\Csharp17_Array\obj\Debug\net6.0\Csharp17_Array.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Csharp17_Array\Csharp17_Array\obj\Debug\net6.0\Csharp17_Array.dll
+C:\Users\Roberto\source\repos\Csharp17_Array\Csharp17_Array\obj\Debug\net6.0\refint\Csharp17_Array.dll
+C:\Users\Roberto\source\repos\Csharp17_Array\Csharp17_Array\obj\Debug\net6.0\Csharp17_Array.pdb
+C:\Users\Roberto\source\repos\Csharp17_Array\Csharp17_Array\obj\Debug\net6.0\Csharp17_Array.genruntimeconfig.cache
+C:\Users\Roberto\source\repos\Csharp17_Array\Csharp17_Array\obj\Debug\net6.0\ref\Csharp17_Array.dll

@@ -1,0 +1,15 @@
+C:\Users\Roberto\source\repos\Csharp36Advanced_Action\Csharp36_Action\bin\Debug\net6.0\Csharp36_Action.exe
+C:\Users\Roberto\source\repos\Csharp36Advanced_Action\Csharp36_Action\bin\Debug\net6.0\Csharp36_Action.deps.json
+C:\Users\Roberto\source\repos\Csharp36Advanced_Action\Csharp36_Action\bin\Debug\net6.0\Csharp36_Action.runtimeconfig.json
+C:\Users\Roberto\source\repos\Csharp36Advanced_Action\Csharp36_Action\bin\Debug\net6.0\Csharp36_Action.dll
+C:\Users\Roberto\source\repos\Csharp36Advanced_Action\Csharp36_Action\bin\Debug\net6.0\Csharp36_Action.pdb
+C:\Users\Roberto\source\repos\Csharp36Advanced_Action\Csharp36_Action\obj\Debug\net6.0\Csharp36_Action.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Csharp36Advanced_Action\Csharp36_Action\obj\Debug\net6.0\Csharp36_Action.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\source\repos\Csharp36Advanced_Action\Csharp36_Action\obj\Debug\net6.0\Csharp36_Action.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\Csharp36Advanced_Action\Csharp36_Action\obj\Debug\net6.0\Csharp36_Action.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\Csharp36Advanced_Action\Csharp36_Action\obj\Debug\net6.0\Csharp36_Action.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Csharp36Advanced_Action\Csharp36_Action\obj\Debug\net6.0\Csharp36_Action.dll
+C:\Users\Roberto\source\repos\Csharp36Advanced_Action\Csharp36_Action\obj\Debug\net6.0\refint\Csharp36_Action.dll
+C:\Users\Roberto\source\repos\Csharp36Advanced_Action\Csharp36_Action\obj\Debug\net6.0\Csharp36_Action.pdb
+C:\Users\Roberto\source\repos\Csharp36Advanced_Action\Csharp36_Action\obj\Debug\net6.0\Csharp36_Action.genruntimeconfig.cache
+C:\Users\Roberto\source\repos\Csharp36Advanced_Action\Csharp36_Action\obj\Debug\net6.0\ref\Csharp36_Action.dll

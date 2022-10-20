@@ -1,0 +1,15 @@
+C:\Users\Roberto\source\repos\Csharp28Advanced_Exception\Csharp28_Exception\bin\Debug\net6.0\Csharp28_Exception.exe
+C:\Users\Roberto\source\repos\Csharp28Advanced_Exception\Csharp28_Exception\bin\Debug\net6.0\Csharp28_Exception.deps.json
+C:\Users\Roberto\source\repos\Csharp28Advanced_Exception\Csharp28_Exception\bin\Debug\net6.0\Csharp28_Exception.runtimeconfig.json
+C:\Users\Roberto\source\repos\Csharp28Advanced_Exception\Csharp28_Exception\bin\Debug\net6.0\Csharp28_Exception.dll
+C:\Users\Roberto\source\repos\Csharp28Advanced_Exception\Csharp28_Exception\bin\Debug\net6.0\Csharp28_Exception.pdb
+C:\Users\Roberto\source\repos\Csharp28Advanced_Exception\Csharp28_Exception\obj\Debug\net6.0\Csharp28_Exception.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Csharp28Advanced_Exception\Csharp28_Exception\obj\Debug\net6.0\Csharp28_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\source\repos\Csharp28Advanced_Exception\Csharp28_Exception\obj\Debug\net6.0\Csharp28_Exception.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\Csharp28Advanced_Exception\Csharp28_Exception\obj\Debug\net6.0\Csharp28_Exception.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\Csharp28Advanced_Exception\Csharp28_Exception\obj\Debug\net6.0\Csharp28_Exception.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Csharp28Advanced_Exception\Csharp28_Exception\obj\Debug\net6.0\Csharp28_Exception.dll
+C:\Users\Roberto\source\repos\Csharp28Advanced_Exception\Csharp28_Exception\obj\Debug\net6.0\refint\Csharp28_Exception.dll
+C:\Users\Roberto\source\repos\Csharp28Advanced_Exception\Csharp28_Exception\obj\Debug\net6.0\Csharp28_Exception.pdb
+C:\Users\Roberto\source\repos\Csharp28Advanced_Exception\Csharp28_Exception\obj\Debug\net6.0\Csharp28_Exception.genruntimeconfig.cache
+C:\Users\Roberto\source\repos\Csharp28Advanced_Exception\Csharp28_Exception\obj\Debug\net6.0\ref\Csharp28_Exception.dll

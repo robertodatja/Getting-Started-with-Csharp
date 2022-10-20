@@ -1,0 +1,15 @@
+C:\Users\Roberto\source\repos\Csharp31Advanced_Generic\Csharp31_Generic\bin\Debug\net6.0\Csharp31_Generic.exe
+C:\Users\Roberto\source\repos\Csharp31Advanced_Generic\Csharp31_Generic\bin\Debug\net6.0\Csharp31_Generic.deps.json
+C:\Users\Roberto\source\repos\Csharp31Advanced_Generic\Csharp31_Generic\bin\Debug\net6.0\Csharp31_Generic.runtimeconfig.json
+C:\Users\Roberto\source\repos\Csharp31Advanced_Generic\Csharp31_Generic\bin\Debug\net6.0\Csharp31_Generic.dll
+C:\Users\Roberto\source\repos\Csharp31Advanced_Generic\Csharp31_Generic\bin\Debug\net6.0\Csharp31_Generic.pdb
+C:\Users\Roberto\source\repos\Csharp31Advanced_Generic\Csharp31_Generic\obj\Debug\net6.0\Csharp31_Generic.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Csharp31Advanced_Generic\Csharp31_Generic\obj\Debug\net6.0\Csharp31_Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\source\repos\Csharp31Advanced_Generic\Csharp31_Generic\obj\Debug\net6.0\Csharp31_Generic.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\Csharp31Advanced_Generic\Csharp31_Generic\obj\Debug\net6.0\Csharp31_Generic.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\Csharp31Advanced_Generic\Csharp31_Generic\obj\Debug\net6.0\Csharp31_Generic.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Csharp31Advanced_Generic\Csharp31_Generic\obj\Debug\net6.0\Csharp31_Generic.dll
+C:\Users\Roberto\source\repos\Csharp31Advanced_Generic\Csharp31_Generic\obj\Debug\net6.0\refint\Csharp31_Generic.dll
+C:\Users\Roberto\source\repos\Csharp31Advanced_Generic\Csharp31_Generic\obj\Debug\net6.0\Csharp31_Generic.pdb
+C:\Users\Roberto\source\repos\Csharp31Advanced_Generic\Csharp31_Generic\obj\Debug\net6.0\Csharp31_Generic.genruntimeconfig.cache
+C:\Users\Roberto\source\repos\Csharp31Advanced_Generic\Csharp31_Generic\obj\Debug\net6.0\ref\Csharp31_Generic.dll

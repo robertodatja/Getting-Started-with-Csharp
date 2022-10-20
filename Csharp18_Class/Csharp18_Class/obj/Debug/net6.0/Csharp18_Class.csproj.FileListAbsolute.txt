@@ -1,0 +1,15 @@
+C:\Users\Roberto\source\repos\Csharp18_Class\Csharp18_Class\bin\Debug\net6.0\Csharp18_Class.exe
+C:\Users\Roberto\source\repos\Csharp18_Class\Csharp18_Class\bin\Debug\net6.0\Csharp18_Class.deps.json
+C:\Users\Roberto\source\repos\Csharp18_Class\Csharp18_Class\bin\Debug\net6.0\Csharp18_Class.runtimeconfig.json
+C:\Users\Roberto\source\repos\Csharp18_Class\Csharp18_Class\bin\Debug\net6.0\Csharp18_Class.dll
+C:\Users\Roberto\source\repos\Csharp18_Class\Csharp18_Class\bin\Debug\net6.0\Csharp18_Class.pdb
+C:\Users\Roberto\source\repos\Csharp18_Class\Csharp18_Class\obj\Debug\net6.0\Csharp18_Class.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Csharp18_Class\Csharp18_Class\obj\Debug\net6.0\Csharp18_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\source\repos\Csharp18_Class\Csharp18_Class\obj\Debug\net6.0\Csharp18_Class.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\Csharp18_Class\Csharp18_Class\obj\Debug\net6.0\Csharp18_Class.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\Csharp18_Class\Csharp18_Class\obj\Debug\net6.0\Csharp18_Class.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Csharp18_Class\Csharp18_Class\obj\Debug\net6.0\Csharp18_Class.dll
+C:\Users\Roberto\source\repos\Csharp18_Class\Csharp18_Class\obj\Debug\net6.0\refint\Csharp18_Class.dll
+C:\Users\Roberto\source\repos\Csharp18_Class\Csharp18_Class\obj\Debug\net6.0\Csharp18_Class.pdb
+C:\Users\Roberto\source\repos\Csharp18_Class\Csharp18_Class\obj\Debug\net6.0\Csharp18_Class.genruntimeconfig.cache
+C:\Users\Roberto\source\repos\Csharp18_Class\Csharp18_Class\obj\Debug\net6.0\ref\Csharp18_Class.dll

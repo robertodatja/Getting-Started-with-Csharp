@@ -1,0 +1,15 @@
+C:\Users\Roberto\source\repos\Csharp35Advanced_Func\Csharp35_Func\obj\Debug\net6.0\Csharp35_Func.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Csharp35Advanced_Func\Csharp35_Func\obj\Debug\net6.0\Csharp35_Func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\source\repos\Csharp35Advanced_Func\Csharp35_Func\obj\Debug\net6.0\Csharp35_Func.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\Csharp35Advanced_Func\Csharp35_Func\obj\Debug\net6.0\Csharp35_Func.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\Csharp35Advanced_Func\Csharp35_Func\obj\Debug\net6.0\Csharp35_Func.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Csharp35Advanced_Func\Csharp35_Func\bin\Debug\net6.0\Csharp35_Func.exe
+C:\Users\Roberto\source\repos\Csharp35Advanced_Func\Csharp35_Func\bin\Debug\net6.0\Csharp35_Func.deps.json
+C:\Users\Roberto\source\repos\Csharp35Advanced_Func\Csharp35_Func\bin\Debug\net6.0\Csharp35_Func.runtimeconfig.json
+C:\Users\Roberto\source\repos\Csharp35Advanced_Func\Csharp35_Func\bin\Debug\net6.0\Csharp35_Func.dll
+C:\Users\Roberto\source\repos\Csharp35Advanced_Func\Csharp35_Func\bin\Debug\net6.0\Csharp35_Func.pdb
+C:\Users\Roberto\source\repos\Csharp35Advanced_Func\Csharp35_Func\obj\Debug\net6.0\Csharp35_Func.dll
+C:\Users\Roberto\source\repos\Csharp35Advanced_Func\Csharp35_Func\obj\Debug\net6.0\refint\Csharp35_Func.dll
+C:\Users\Roberto\source\repos\Csharp35Advanced_Func\Csharp35_Func\obj\Debug\net6.0\Csharp35_Func.pdb
+C:\Users\Roberto\source\repos\Csharp35Advanced_Func\Csharp35_Func\obj\Debug\net6.0\Csharp35_Func.genruntimeconfig.cache
+C:\Users\Roberto\source\repos\Csharp35Advanced_Func\Csharp35_Func\obj\Debug\net6.0\ref\Csharp35_Func.dll

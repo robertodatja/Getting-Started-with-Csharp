@@ -1,0 +1,15 @@
+C:\Users\Roberto\source\repos\Csharp23_SortedList\Csharp23_SortedList\obj\Debug\net6.0\Csharp23_SortedList.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Csharp23_SortedList\Csharp23_SortedList\obj\Debug\net6.0\Csharp23_SortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\source\repos\Csharp23_SortedList\Csharp23_SortedList\obj\Debug\net6.0\Csharp23_SortedList.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\Csharp23_SortedList\Csharp23_SortedList\obj\Debug\net6.0\Csharp23_SortedList.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\Csharp23_SortedList\Csharp23_SortedList\obj\Debug\net6.0\Csharp23_SortedList.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Csharp23_SortedList\Csharp23_SortedList\bin\Debug\net6.0\Csharp23_SortedList.exe
+C:\Users\Roberto\source\repos\Csharp23_SortedList\Csharp23_SortedList\bin\Debug\net6.0\Csharp23_SortedList.deps.json
+C:\Users\Roberto\source\repos\Csharp23_SortedList\Csharp23_SortedList\bin\Debug\net6.0\Csharp23_SortedList.runtimeconfig.json
+C:\Users\Roberto\source\repos\Csharp23_SortedList\Csharp23_SortedList\bin\Debug\net6.0\Csharp23_SortedList.dll
+C:\Users\Roberto\source\repos\Csharp23_SortedList\Csharp23_SortedList\bin\Debug\net6.0\Csharp23_SortedList.pdb
+C:\Users\Roberto\source\repos\Csharp23_SortedList\Csharp23_SortedList\obj\Debug\net6.0\Csharp23_SortedList.dll
+C:\Users\Roberto\source\repos\Csharp23_SortedList\Csharp23_SortedList\obj\Debug\net6.0\refint\Csharp23_SortedList.dll
+C:\Users\Roberto\source\repos\Csharp23_SortedList\Csharp23_SortedList\obj\Debug\net6.0\Csharp23_SortedList.pdb
+C:\Users\Roberto\source\repos\Csharp23_SortedList\Csharp23_SortedList\obj\Debug\net6.0\Csharp23_SortedList.genruntimeconfig.cache
+C:\Users\Roberto\source\repos\Csharp23_SortedList\Csharp23_SortedList\obj\Debug\net6.0\ref\Csharp23_SortedList.dll

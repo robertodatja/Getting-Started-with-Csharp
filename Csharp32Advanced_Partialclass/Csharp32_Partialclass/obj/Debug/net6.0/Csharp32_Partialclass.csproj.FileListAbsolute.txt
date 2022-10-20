@@ -1,0 +1,15 @@
+C:\Users\Roberto\source\repos\Csharp32Advanced_Partialclass\Csharp32_Partialclass\bin\Debug\net6.0\Csharp32_Partialclass.exe
+C:\Users\Roberto\source\repos\Csharp32Advanced_Partialclass\Csharp32_Partialclass\bin\Debug\net6.0\Csharp32_Partialclass.deps.json
+C:\Users\Roberto\source\repos\Csharp32Advanced_Partialclass\Csharp32_Partialclass\bin\Debug\net6.0\Csharp32_Partialclass.runtimeconfig.json
+C:\Users\Roberto\source\repos\Csharp32Advanced_Partialclass\Csharp32_Partialclass\bin\Debug\net6.0\Csharp32_Partialclass.dll
+C:\Users\Roberto\source\repos\Csharp32Advanced_Partialclass\Csharp32_Partialclass\bin\Debug\net6.0\Csharp32_Partialclass.pdb
+C:\Users\Roberto\source\repos\Csharp32Advanced_Partialclass\Csharp32_Partialclass\obj\Debug\net6.0\Csharp32_Partialclass.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Csharp32Advanced_Partialclass\Csharp32_Partialclass\obj\Debug\net6.0\Csharp32_Partialclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\source\repos\Csharp32Advanced_Partialclass\Csharp32_Partialclass\obj\Debug\net6.0\Csharp32_Partialclass.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\Csharp32Advanced_Partialclass\Csharp32_Partialclass\obj\Debug\net6.0\Csharp32_Partialclass.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\Csharp32Advanced_Partialclass\Csharp32_Partialclass\obj\Debug\net6.0\Csharp32_Partialclass.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Csharp32Advanced_Partialclass\Csharp32_Partialclass\obj\Debug\net6.0\Csharp32_Partialclass.dll
+C:\Users\Roberto\source\repos\Csharp32Advanced_Partialclass\Csharp32_Partialclass\obj\Debug\net6.0\refint\Csharp32_Partialclass.dll
+C:\Users\Roberto\source\repos\Csharp32Advanced_Partialclass\Csharp32_Partialclass\obj\Debug\net6.0\Csharp32_Partialclass.pdb
+C:\Users\Roberto\source\repos\Csharp32Advanced_Partialclass\Csharp32_Partialclass\obj\Debug\net6.0\Csharp32_Partialclass.genruntimeconfig.cache
+C:\Users\Roberto\source\repos\Csharp32Advanced_Partialclass\Csharp32_Partialclass\obj\Debug\net6.0\ref\Csharp32_Partialclass.dll

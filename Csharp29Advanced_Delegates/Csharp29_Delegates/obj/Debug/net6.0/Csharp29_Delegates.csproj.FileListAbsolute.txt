@@ -1,0 +1,15 @@
+C:\Users\Roberto\source\repos\Csharp29Advanced_Delegates\Csharp29_Delegates\obj\Debug\net6.0\Csharp29_Delegates.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Csharp29Advanced_Delegates\Csharp29_Delegates\obj\Debug\net6.0\Csharp29_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\source\repos\Csharp29Advanced_Delegates\Csharp29_Delegates\obj\Debug\net6.0\Csharp29_Delegates.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\Csharp29Advanced_Delegates\Csharp29_Delegates\obj\Debug\net6.0\Csharp29_Delegates.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\Csharp29Advanced_Delegates\Csharp29_Delegates\obj\Debug\net6.0\Csharp29_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Csharp29Advanced_Delegates\Csharp29_Delegates\bin\Debug\net6.0\Csharp29_Delegates.exe
+C:\Users\Roberto\source\repos\Csharp29Advanced_Delegates\Csharp29_Delegates\bin\Debug\net6.0\Csharp29_Delegates.deps.json
+C:\Users\Roberto\source\repos\Csharp29Advanced_Delegates\Csharp29_Delegates\bin\Debug\net6.0\Csharp29_Delegates.runtimeconfig.json
+C:\Users\Roberto\source\repos\Csharp29Advanced_Delegates\Csharp29_Delegates\bin\Debug\net6.0\Csharp29_Delegates.dll
+C:\Users\Roberto\source\repos\Csharp29Advanced_Delegates\Csharp29_Delegates\bin\Debug\net6.0\Csharp29_Delegates.pdb
+C:\Users\Roberto\source\repos\Csharp29Advanced_Delegates\Csharp29_Delegates\obj\Debug\net6.0\Csharp29_Delegates.dll
+C:\Users\Roberto\source\repos\Csharp29Advanced_Delegates\Csharp29_Delegates\obj\Debug\net6.0\refint\Csharp29_Delegates.dll
+C:\Users\Roberto\source\repos\Csharp29Advanced_Delegates\Csharp29_Delegates\obj\Debug\net6.0\Csharp29_Delegates.pdb
+C:\Users\Roberto\source\repos\Csharp29Advanced_Delegates\Csharp29_Delegates\obj\Debug\net6.0\Csharp29_Delegates.genruntimeconfig.cache
+C:\Users\Roberto\source\repos\Csharp29Advanced_Delegates\Csharp29_Delegates\obj\Debug\net6.0\ref\Csharp29_Delegates.dll

@@ -1,0 +1,15 @@
+C:\Users\Roberto\source\repos\Csharp13_Functions_Methods\Csharp13_Functions_Methods\bin\Debug\net6.0\Csharp13_Functions_Methods.exe
+C:\Users\Roberto\source\repos\Csharp13_Functions_Methods\Csharp13_Functions_Methods\bin\Debug\net6.0\Csharp13_Functions_Methods.deps.json
+C:\Users\Roberto\source\repos\Csharp13_Functions_Methods\Csharp13_Functions_Methods\bin\Debug\net6.0\Csharp13_Functions_Methods.runtimeconfig.json
+C:\Users\Roberto\source\repos\Csharp13_Functions_Methods\Csharp13_Functions_Methods\bin\Debug\net6.0\Csharp13_Functions_Methods.dll
+C:\Users\Roberto\source\repos\Csharp13_Functions_Methods\Csharp13_Functions_Methods\bin\Debug\net6.0\Csharp13_Functions_Methods.pdb
+C:\Users\Roberto\source\repos\Csharp13_Functions_Methods\Csharp13_Functions_Methods\obj\Debug\net6.0\Csharp13_Functions_Methods.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Csharp13_Functions_Methods\Csharp13_Functions_Methods\obj\Debug\net6.0\Csharp13_Functions_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\source\repos\Csharp13_Functions_Methods\Csharp13_Functions_Methods\obj\Debug\net6.0\Csharp13_Functions_Methods.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\Csharp13_Functions_Methods\Csharp13_Functions_Methods\obj\Debug\net6.0\Csharp13_Functions_Methods.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\Csharp13_Functions_Methods\Csharp13_Functions_Methods\obj\Debug\net6.0\Csharp13_Functions_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Csharp13_Functions_Methods\Csharp13_Functions_Methods\obj\Debug\net6.0\Csharp13_Functions_Methods.dll
+C:\Users\Roberto\source\repos\Csharp13_Functions_Methods\Csharp13_Functions_Methods\obj\Debug\net6.0\refint\Csharp13_Functions_Methods.dll
+C:\Users\Roberto\source\repos\Csharp13_Functions_Methods\Csharp13_Functions_Methods\obj\Debug\net6.0\Csharp13_Functions_Methods.pdb
+C:\Users\Roberto\source\repos\Csharp13_Functions_Methods\Csharp13_Functions_Methods\obj\Debug\net6.0\Csharp13_Functions_Methods.genruntimeconfig.cache
+C:\Users\Roberto\source\repos\Csharp13_Functions_Methods\Csharp13_Functions_Methods\obj\Debug\net6.0\ref\Csharp13_Functions_Methods.dll

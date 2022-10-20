@@ -1,0 +1,15 @@
+C:\Users\Roberto\source\repos\Csharp30Advanced_Event\Csharp30_Event\bin\Debug\net6.0\Csharp30_Event.exe
+C:\Users\Roberto\source\repos\Csharp30Advanced_Event\Csharp30_Event\bin\Debug\net6.0\Csharp30_Event.deps.json
+C:\Users\Roberto\source\repos\Csharp30Advanced_Event\Csharp30_Event\bin\Debug\net6.0\Csharp30_Event.runtimeconfig.json
+C:\Users\Roberto\source\repos\Csharp30Advanced_Event\Csharp30_Event\bin\Debug\net6.0\Csharp30_Event.dll
+C:\Users\Roberto\source\repos\Csharp30Advanced_Event\Csharp30_Event\bin\Debug\net6.0\Csharp30_Event.pdb
+C:\Users\Roberto\source\repos\Csharp30Advanced_Event\Csharp30_Event\obj\Debug\net6.0\Csharp30_Event.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Csharp30Advanced_Event\Csharp30_Event\obj\Debug\net6.0\Csharp30_Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\source\repos\Csharp30Advanced_Event\Csharp30_Event\obj\Debug\net6.0\Csharp30_Event.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\Csharp30Advanced_Event\Csharp30_Event\obj\Debug\net6.0\Csharp30_Event.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\Csharp30Advanced_Event\Csharp30_Event\obj\Debug\net6.0\Csharp30_Event.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Csharp30Advanced_Event\Csharp30_Event\obj\Debug\net6.0\Csharp30_Event.dll
+C:\Users\Roberto\source\repos\Csharp30Advanced_Event\Csharp30_Event\obj\Debug\net6.0\refint\Csharp30_Event.dll
+C:\Users\Roberto\source\repos\Csharp30Advanced_Event\Csharp30_Event\obj\Debug\net6.0\Csharp30_Event.pdb
+C:\Users\Roberto\source\repos\Csharp30Advanced_Event\Csharp30_Event\obj\Debug\net6.0\Csharp30_Event.genruntimeconfig.cache
+C:\Users\Roberto\source\repos\Csharp30Advanced_Event\Csharp30_Event\obj\Debug\net6.0\ref\Csharp30_Event.dll

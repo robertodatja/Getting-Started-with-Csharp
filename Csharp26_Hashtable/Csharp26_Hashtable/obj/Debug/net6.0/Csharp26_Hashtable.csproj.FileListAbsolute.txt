@@ -1,0 +1,15 @@
+C:\Users\Roberto\source\repos\Csharp26_Hashtable\Csharp26_Hashtable\obj\Debug\net6.0\Csharp26_Hashtable.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Csharp26_Hashtable\Csharp26_Hashtable\obj\Debug\net6.0\Csharp26_Hashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\source\repos\Csharp26_Hashtable\Csharp26_Hashtable\obj\Debug\net6.0\Csharp26_Hashtable.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\Csharp26_Hashtable\Csharp26_Hashtable\obj\Debug\net6.0\Csharp26_Hashtable.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\Csharp26_Hashtable\Csharp26_Hashtable\obj\Debug\net6.0\Csharp26_Hashtable.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Csharp26_Hashtable\Csharp26_Hashtable\bin\Debug\net6.0\Csharp26_Hashtable.exe
+C:\Users\Roberto\source\repos\Csharp26_Hashtable\Csharp26_Hashtable\bin\Debug\net6.0\Csharp26_Hashtable.deps.json
+C:\Users\Roberto\source\repos\Csharp26_Hashtable\Csharp26_Hashtable\bin\Debug\net6.0\Csharp26_Hashtable.runtimeconfig.json
+C:\Users\Roberto\source\repos\Csharp26_Hashtable\Csharp26_Hashtable\bin\Debug\net6.0\Csharp26_Hashtable.dll
+C:\Users\Roberto\source\repos\Csharp26_Hashtable\Csharp26_Hashtable\bin\Debug\net6.0\Csharp26_Hashtable.pdb
+C:\Users\Roberto\source\repos\Csharp26_Hashtable\Csharp26_Hashtable\obj\Debug\net6.0\Csharp26_Hashtable.dll
+C:\Users\Roberto\source\repos\Csharp26_Hashtable\Csharp26_Hashtable\obj\Debug\net6.0\refint\Csharp26_Hashtable.dll
+C:\Users\Roberto\source\repos\Csharp26_Hashtable\Csharp26_Hashtable\obj\Debug\net6.0\Csharp26_Hashtable.pdb
+C:\Users\Roberto\source\repos\Csharp26_Hashtable\Csharp26_Hashtable\obj\Debug\net6.0\Csharp26_Hashtable.genruntimeconfig.cache
+C:\Users\Roberto\source\repos\Csharp26_Hashtable\Csharp26_Hashtable\obj\Debug\net6.0\ref\Csharp26_Hashtable.dll

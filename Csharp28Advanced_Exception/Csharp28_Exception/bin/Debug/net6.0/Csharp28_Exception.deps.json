@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Csharp28_Exception/1.0.0": {
+        "runtime": {
+          "Csharp28_Exception.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Csharp28_Exception/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

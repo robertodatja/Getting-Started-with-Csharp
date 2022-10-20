@@ -1,0 +1,15 @@
+C:\Users\Roberto\source\repos\Csharp20_Interfaces\Csharp20_Interfaces\obj\Debug\net6.0\Csharp20_Interfaces.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Csharp20_Interfaces\Csharp20_Interfaces\obj\Debug\net6.0\Csharp20_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\source\repos\Csharp20_Interfaces\Csharp20_Interfaces\obj\Debug\net6.0\Csharp20_Interfaces.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\Csharp20_Interfaces\Csharp20_Interfaces\obj\Debug\net6.0\Csharp20_Interfaces.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\Csharp20_Interfaces\Csharp20_Interfaces\obj\Debug\net6.0\Csharp20_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Csharp20_Interfaces\Csharp20_Interfaces\bin\Debug\net6.0\Csharp20_Interfaces.exe
+C:\Users\Roberto\source\repos\Csharp20_Interfaces\Csharp20_Interfaces\bin\Debug\net6.0\Csharp20_Interfaces.deps.json
+C:\Users\Roberto\source\repos\Csharp20_Interfaces\Csharp20_Interfaces\bin\Debug\net6.0\Csharp20_Interfaces.runtimeconfig.json
+C:\Users\Roberto\source\repos\Csharp20_Interfaces\Csharp20_Interfaces\bin\Debug\net6.0\Csharp20_Interfaces.dll
+C:\Users\Roberto\source\repos\Csharp20_Interfaces\Csharp20_Interfaces\bin\Debug\net6.0\Csharp20_Interfaces.pdb
+C:\Users\Roberto\source\repos\Csharp20_Interfaces\Csharp20_Interfaces\obj\Debug\net6.0\Csharp20_Interfaces.dll
+C:\Users\Roberto\source\repos\Csharp20_Interfaces\Csharp20_Interfaces\obj\Debug\net6.0\refint\Csharp20_Interfaces.dll
+C:\Users\Roberto\source\repos\Csharp20_Interfaces\Csharp20_Interfaces\obj\Debug\net6.0\Csharp20_Interfaces.pdb
+C:\Users\Roberto\source\repos\Csharp20_Interfaces\Csharp20_Interfaces\obj\Debug\net6.0\Csharp20_Interfaces.genruntimeconfig.cache
+C:\Users\Roberto\source\repos\Csharp20_Interfaces\Csharp20_Interfaces\obj\Debug\net6.0\ref\Csharp20_Interfaces.dll

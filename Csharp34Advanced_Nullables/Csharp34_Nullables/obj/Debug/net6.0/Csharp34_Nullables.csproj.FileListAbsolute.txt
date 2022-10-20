@@ -1,0 +1,15 @@
+C:\Users\Roberto\source\repos\Csharp34Advanced_Nullables\Csharp34_Nullables\bin\Debug\net6.0\Csharp34_Nullables.exe
+C:\Users\Roberto\source\repos\Csharp34Advanced_Nullables\Csharp34_Nullables\bin\Debug\net6.0\Csharp34_Nullables.deps.json
+C:\Users\Roberto\source\repos\Csharp34Advanced_Nullables\Csharp34_Nullables\bin\Debug\net6.0\Csharp34_Nullables.runtimeconfig.json
+C:\Users\Roberto\source\repos\Csharp34Advanced_Nullables\Csharp34_Nullables\bin\Debug\net6.0\Csharp34_Nullables.dll
+C:\Users\Roberto\source\repos\Csharp34Advanced_Nullables\Csharp34_Nullables\bin\Debug\net6.0\Csharp34_Nullables.pdb
+C:\Users\Roberto\source\repos\Csharp34Advanced_Nullables\Csharp34_Nullables\obj\Debug\net6.0\Csharp34_Nullables.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Csharp34Advanced_Nullables\Csharp34_Nullables\obj\Debug\net6.0\Csharp34_Nullables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\source\repos\Csharp34Advanced_Nullables\Csharp34_Nullables\obj\Debug\net6.0\Csharp34_Nullables.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\Csharp34Advanced_Nullables\Csharp34_Nullables\obj\Debug\net6.0\Csharp34_Nullables.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\Csharp34Advanced_Nullables\Csharp34_Nullables\obj\Debug\net6.0\Csharp34_Nullables.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Csharp34Advanced_Nullables\Csharp34_Nullables\obj\Debug\net6.0\Csharp34_Nullables.dll
+C:\Users\Roberto\source\repos\Csharp34Advanced_Nullables\Csharp34_Nullables\obj\Debug\net6.0\refint\Csharp34_Nullables.dll
+C:\Users\Roberto\source\repos\Csharp34Advanced_Nullables\Csharp34_Nullables\obj\Debug\net6.0\Csharp34_Nullables.pdb
+C:\Users\Roberto\source\repos\Csharp34Advanced_Nullables\Csharp34_Nullables\obj\Debug\net6.0\Csharp34_Nullables.genruntimeconfig.cache
+C:\Users\Roberto\source\repos\Csharp34Advanced_Nullables\Csharp34_Nullables\obj\Debug\net6.0\ref\Csharp34_Nullables.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Csharp35_Func/1.0.0": {
+        "runtime": {
+          "Csharp35_Func.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Csharp35_Func/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Roberto\source\repos\Csharp27_Indexer\Csharp27_Indexer\bin\Debug\net6.0\Csharp27_Indexer.exe
+C:\Users\Roberto\source\repos\Csharp27_Indexer\Csharp27_Indexer\bin\Debug\net6.0\Csharp27_Indexer.deps.json
+C:\Users\Roberto\source\repos\Csharp27_Indexer\Csharp27_Indexer\bin\Debug\net6.0\Csharp27_Indexer.runtimeconfig.json
+C:\Users\Roberto\source\repos\Csharp27_Indexer\Csharp27_Indexer\bin\Debug\net6.0\Csharp27_Indexer.dll
+C:\Users\Roberto\source\repos\Csharp27_Indexer\Csharp27_Indexer\bin\Debug\net6.0\Csharp27_Indexer.pdb
+C:\Users\Roberto\source\repos\Csharp27_Indexer\Csharp27_Indexer\obj\Debug\net6.0\Csharp27_Indexer.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Csharp27_Indexer\Csharp27_Indexer\obj\Debug\net6.0\Csharp27_Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\source\repos\Csharp27_Indexer\Csharp27_Indexer\obj\Debug\net6.0\Csharp27_Indexer.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\Csharp27_Indexer\Csharp27_Indexer\obj\Debug\net6.0\Csharp27_Indexer.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\Csharp27_Indexer\Csharp27_Indexer\obj\Debug\net6.0\Csharp27_Indexer.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Csharp27_Indexer\Csharp27_Indexer\obj\Debug\net6.0\Csharp27_Indexer.dll
+C:\Users\Roberto\source\repos\Csharp27_Indexer\Csharp27_Indexer\obj\Debug\net6.0\refint\Csharp27_Indexer.dll
+C:\Users\Roberto\source\repos\Csharp27_Indexer\Csharp27_Indexer\obj\Debug\net6.0\Csharp27_Indexer.pdb
+C:\Users\Roberto\source\repos\Csharp27_Indexer\Csharp27_Indexer\obj\Debug\net6.0\Csharp27_Indexer.genruntimeconfig.cache
+C:\Users\Roberto\source\repos\Csharp27_Indexer\Csharp27_Indexer\obj\Debug\net6.0\ref\Csharp27_Indexer.dll

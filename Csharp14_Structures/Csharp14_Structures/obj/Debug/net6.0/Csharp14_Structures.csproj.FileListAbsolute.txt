@@ -1,0 +1,15 @@
+C:\Users\Roberto\source\repos\Csharp14_Structures\Csharp14_Structures\obj\Debug\net6.0\Csharp14_Structures.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Csharp14_Structures\Csharp14_Structures\obj\Debug\net6.0\Csharp14_Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\source\repos\Csharp14_Structures\Csharp14_Structures\obj\Debug\net6.0\Csharp14_Structures.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\Csharp14_Structures\Csharp14_Structures\obj\Debug\net6.0\Csharp14_Structures.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\Csharp14_Structures\Csharp14_Structures\obj\Debug\net6.0\Csharp14_Structures.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Csharp14_Structures\Csharp14_Structures\bin\Debug\net6.0\Csharp14_Structures.exe
+C:\Users\Roberto\source\repos\Csharp14_Structures\Csharp14_Structures\bin\Debug\net6.0\Csharp14_Structures.deps.json
+C:\Users\Roberto\source\repos\Csharp14_Structures\Csharp14_Structures\bin\Debug\net6.0\Csharp14_Structures.runtimeconfig.json
+C:\Users\Roberto\source\repos\Csharp14_Structures\Csharp14_Structures\bin\Debug\net6.0\Csharp14_Structures.dll
+C:\Users\Roberto\source\repos\Csharp14_Structures\Csharp14_Structures\bin\Debug\net6.0\Csharp14_Structures.pdb
+C:\Users\Roberto\source\repos\Csharp14_Structures\Csharp14_Structures\obj\Debug\net6.0\Csharp14_Structures.dll
+C:\Users\Roberto\source\repos\Csharp14_Structures\Csharp14_Structures\obj\Debug\net6.0\refint\Csharp14_Structures.dll
+C:\Users\Roberto\source\repos\Csharp14_Structures\Csharp14_Structures\obj\Debug\net6.0\Csharp14_Structures.pdb
+C:\Users\Roberto\source\repos\Csharp14_Structures\Csharp14_Structures\obj\Debug\net6.0\Csharp14_Structures.genruntimeconfig.cache
+C:\Users\Roberto\source\repos\Csharp14_Structures\Csharp14_Structures\obj\Debug\net6.0\ref\Csharp14_Structures.dll

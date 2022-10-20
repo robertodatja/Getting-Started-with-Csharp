@@ -1,0 +1,15 @@
+C:\Users\Roberto\source\repos\Csharp25_Queue\Csharp25_Queue\obj\Debug\net6.0\Csharp25_Queue.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Csharp25_Queue\Csharp25_Queue\obj\Debug\net6.0\Csharp25_Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\source\repos\Csharp25_Queue\Csharp25_Queue\obj\Debug\net6.0\Csharp25_Queue.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\Csharp25_Queue\Csharp25_Queue\obj\Debug\net6.0\Csharp25_Queue.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\Csharp25_Queue\Csharp25_Queue\obj\Debug\net6.0\Csharp25_Queue.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Csharp25_Queue\Csharp25_Queue\bin\Debug\net6.0\Csharp25_Queue.exe
+C:\Users\Roberto\source\repos\Csharp25_Queue\Csharp25_Queue\bin\Debug\net6.0\Csharp25_Queue.deps.json
+C:\Users\Roberto\source\repos\Csharp25_Queue\Csharp25_Queue\bin\Debug\net6.0\Csharp25_Queue.runtimeconfig.json
+C:\Users\Roberto\source\repos\Csharp25_Queue\Csharp25_Queue\bin\Debug\net6.0\Csharp25_Queue.dll
+C:\Users\Roberto\source\repos\Csharp25_Queue\Csharp25_Queue\bin\Debug\net6.0\Csharp25_Queue.pdb
+C:\Users\Roberto\source\repos\Csharp25_Queue\Csharp25_Queue\obj\Debug\net6.0\Csharp25_Queue.dll
+C:\Users\Roberto\source\repos\Csharp25_Queue\Csharp25_Queue\obj\Debug\net6.0\refint\Csharp25_Queue.dll
+C:\Users\Roberto\source\repos\Csharp25_Queue\Csharp25_Queue\obj\Debug\net6.0\Csharp25_Queue.pdb
+C:\Users\Roberto\source\repos\Csharp25_Queue\Csharp25_Queue\obj\Debug\net6.0\Csharp25_Queue.genruntimeconfig.cache
+C:\Users\Roberto\source\repos\Csharp25_Queue\Csharp25_Queue\obj\Debug\net6.0\ref\Csharp25_Queue.dll

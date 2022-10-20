@@ -1,0 +1,15 @@
+C:\Users\Roberto\source\repos\Csharp21_26__Collections\Csharp21_26__Collections\bin\Debug\net6.0\Csharp21_26__Collections.exe
+C:\Users\Roberto\source\repos\Csharp21_26__Collections\Csharp21_26__Collections\bin\Debug\net6.0\Csharp21_26__Collections.deps.json
+C:\Users\Roberto\source\repos\Csharp21_26__Collections\Csharp21_26__Collections\bin\Debug\net6.0\Csharp21_26__Collections.runtimeconfig.json
+C:\Users\Roberto\source\repos\Csharp21_26__Collections\Csharp21_26__Collections\bin\Debug\net6.0\Csharp21_26__Collections.dll
+C:\Users\Roberto\source\repos\Csharp21_26__Collections\Csharp21_26__Collections\bin\Debug\net6.0\Csharp21_26__Collections.pdb
+C:\Users\Roberto\source\repos\Csharp21_26__Collections\Csharp21_26__Collections\obj\Debug\net6.0\Csharp21_26__Collections.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Csharp21_26__Collections\Csharp21_26__Collections\obj\Debug\net6.0\Csharp21_26__Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\source\repos\Csharp21_26__Collections\Csharp21_26__Collections\obj\Debug\net6.0\Csharp21_26__Collections.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\Csharp21_26__Collections\Csharp21_26__Collections\obj\Debug\net6.0\Csharp21_26__Collections.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\Csharp21_26__Collections\Csharp21_26__Collections\obj\Debug\net6.0\Csharp21_26__Collections.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Csharp21_26__Collections\Csharp21_26__Collections\obj\Debug\net6.0\Csharp21_26__Collections.dll
+C:\Users\Roberto\source\repos\Csharp21_26__Collections\Csharp21_26__Collections\obj\Debug\net6.0\refint\Csharp21_26__Collections.dll
+C:\Users\Roberto\source\repos\Csharp21_26__Collections\Csharp21_26__Collections\obj\Debug\net6.0\Csharp21_26__Collections.pdb
+C:\Users\Roberto\source\repos\Csharp21_26__Collections\Csharp21_26__Collections\obj\Debug\net6.0\Csharp21_26__Collections.genruntimeconfig.cache
+C:\Users\Roberto\source\repos\Csharp21_26__Collections\Csharp21_26__Collections\obj\Debug\net6.0\ref\Csharp21_26__Collections.dll

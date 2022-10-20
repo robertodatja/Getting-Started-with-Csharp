@@ -1,0 +1,15 @@
+C:\Users\Roberto\source\repos\CsharpTutorials1_11\Csharp1_11\bin\Debug\net6.0\Csharp1_11.exe
+C:\Users\Roberto\source\repos\CsharpTutorials1_11\Csharp1_11\bin\Debug\net6.0\Csharp1_11.deps.json
+C:\Users\Roberto\source\repos\CsharpTutorials1_11\Csharp1_11\bin\Debug\net6.0\Csharp1_11.runtimeconfig.json
+C:\Users\Roberto\source\repos\CsharpTutorials1_11\Csharp1_11\bin\Debug\net6.0\Csharp1_11.dll
+C:\Users\Roberto\source\repos\CsharpTutorials1_11\Csharp1_11\bin\Debug\net6.0\Csharp1_11.pdb
+C:\Users\Roberto\source\repos\CsharpTutorials1_11\Csharp1_11\obj\Debug\net6.0\Csharp1_11.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\CsharpTutorials1_11\Csharp1_11\obj\Debug\net6.0\Csharp1_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\source\repos\CsharpTutorials1_11\Csharp1_11\obj\Debug\net6.0\Csharp1_11.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\CsharpTutorials1_11\Csharp1_11\obj\Debug\net6.0\Csharp1_11.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\CsharpTutorials1_11\Csharp1_11\obj\Debug\net6.0\Csharp1_11.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\CsharpTutorials1_11\Csharp1_11\obj\Debug\net6.0\Csharp1_11.dll
+C:\Users\Roberto\source\repos\CsharpTutorials1_11\Csharp1_11\obj\Debug\net6.0\refint\Csharp1_11.dll
+C:\Users\Roberto\source\repos\CsharpTutorials1_11\Csharp1_11\obj\Debug\net6.0\Csharp1_11.pdb
+C:\Users\Roberto\source\repos\CsharpTutorials1_11\Csharp1_11\obj\Debug\net6.0\Csharp1_11.genruntimeconfig.cache
+C:\Users\Roberto\source\repos\CsharpTutorials1_11\Csharp1_11\obj\Debug\net6.0\ref\Csharp1_11.dll

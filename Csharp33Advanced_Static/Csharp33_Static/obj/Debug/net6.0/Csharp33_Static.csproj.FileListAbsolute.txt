@@ -1,0 +1,15 @@
+C:\Users\Roberto\source\repos\Csharp33Advanced_Static\Csharp33_Static\bin\Debug\net6.0\Csharp33_Static.exe
+C:\Users\Roberto\source\repos\Csharp33Advanced_Static\Csharp33_Static\bin\Debug\net6.0\Csharp33_Static.deps.json
+C:\Users\Roberto\source\repos\Csharp33Advanced_Static\Csharp33_Static\bin\Debug\net6.0\Csharp33_Static.runtimeconfig.json
+C:\Users\Roberto\source\repos\Csharp33Advanced_Static\Csharp33_Static\bin\Debug\net6.0\Csharp33_Static.dll
+C:\Users\Roberto\source\repos\Csharp33Advanced_Static\Csharp33_Static\bin\Debug\net6.0\Csharp33_Static.pdb
+C:\Users\Roberto\source\repos\Csharp33Advanced_Static\Csharp33_Static\obj\Debug\net6.0\Csharp33_Static.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Csharp33Advanced_Static\Csharp33_Static\obj\Debug\net6.0\Csharp33_Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\source\repos\Csharp33Advanced_Static\Csharp33_Static\obj\Debug\net6.0\Csharp33_Static.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\Csharp33Advanced_Static\Csharp33_Static\obj\Debug\net6.0\Csharp33_Static.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\Csharp33Advanced_Static\Csharp33_Static\obj\Debug\net6.0\Csharp33_Static.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Csharp33Advanced_Static\Csharp33_Static\obj\Debug\net6.0\Csharp33_Static.dll
+C:\Users\Roberto\source\repos\Csharp33Advanced_Static\Csharp33_Static\obj\Debug\net6.0\refint\Csharp33_Static.dll
+C:\Users\Roberto\source\repos\Csharp33Advanced_Static\Csharp33_Static\obj\Debug\net6.0\Csharp33_Static.pdb
+C:\Users\Roberto\source\repos\Csharp33Advanced_Static\Csharp33_Static\obj\Debug\net6.0\Csharp33_Static.genruntimeconfig.cache
+C:\Users\Roberto\source\repos\Csharp33Advanced_Static\Csharp33_Static\obj\Debug\net6.0\ref\Csharp33_Static.dll

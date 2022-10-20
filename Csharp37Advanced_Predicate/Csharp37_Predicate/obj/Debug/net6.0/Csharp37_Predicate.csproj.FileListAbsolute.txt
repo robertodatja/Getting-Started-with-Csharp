@@ -1,0 +1,15 @@
+C:\Users\Roberto\source\repos\Csharp37Advanced_Predicate\Csharp37_Predicate\bin\Debug\net6.0\Csharp37_Predicate.exe
+C:\Users\Roberto\source\repos\Csharp37Advanced_Predicate\Csharp37_Predicate\bin\Debug\net6.0\Csharp37_Predicate.deps.json
+C:\Users\Roberto\source\repos\Csharp37Advanced_Predicate\Csharp37_Predicate\bin\Debug\net6.0\Csharp37_Predicate.runtimeconfig.json
+C:\Users\Roberto\source\repos\Csharp37Advanced_Predicate\Csharp37_Predicate\bin\Debug\net6.0\Csharp37_Predicate.dll
+C:\Users\Roberto\source\repos\Csharp37Advanced_Predicate\Csharp37_Predicate\bin\Debug\net6.0\Csharp37_Predicate.pdb
+C:\Users\Roberto\source\repos\Csharp37Advanced_Predicate\Csharp37_Predicate\obj\Debug\net6.0\Csharp37_Predicate.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Csharp37Advanced_Predicate\Csharp37_Predicate\obj\Debug\net6.0\Csharp37_Predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\source\repos\Csharp37Advanced_Predicate\Csharp37_Predicate\obj\Debug\net6.0\Csharp37_Predicate.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\Csharp37Advanced_Predicate\Csharp37_Predicate\obj\Debug\net6.0\Csharp37_Predicate.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\Csharp37Advanced_Predicate\Csharp37_Predicate\obj\Debug\net6.0\Csharp37_Predicate.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Csharp37Advanced_Predicate\Csharp37_Predicate\obj\Debug\net6.0\Csharp37_Predicate.dll
+C:\Users\Roberto\source\repos\Csharp37Advanced_Predicate\Csharp37_Predicate\obj\Debug\net6.0\refint\Csharp37_Predicate.dll
+C:\Users\Roberto\source\repos\Csharp37Advanced_Predicate\Csharp37_Predicate\obj\Debug\net6.0\Csharp37_Predicate.pdb
+C:\Users\Roberto\source\repos\Csharp37Advanced_Predicate\Csharp37_Predicate\obj\Debug\net6.0\Csharp37_Predicate.genruntimeconfig.cache
+C:\Users\Roberto\source\repos\Csharp37Advanced_Predicate\Csharp37_Predicate\obj\Debug\net6.0\ref\Csharp37_Predicate.dll
